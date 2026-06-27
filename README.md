@@ -1,5 +1,6 @@
 # 🤖 AI-Powered Natural Language to SQL Chatbot using LangChain & LLMs
 
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,8 +15,10 @@
 
 
 <p align="center">
-  <img src="images/overview-banner.png" alt="SQL Chatbot Overview" width="100%">
+  <img src="1 SQL Chatbot - Langchain/images/overview-banner.png" alt="SQL Chatbot Overview" width="100%">
 </p>
+
+
 ---
 
 # 📌 Overview
@@ -54,8 +57,6 @@ This project was developed during my **AI/ML Internship at Dynamisity Pvt. Ltd.*
 
 # 🏗 System Architecture
 
-> *(Replace the image path after uploading your architecture screenshot.)*
-
 ```text
 User Question
       │
@@ -89,11 +90,13 @@ LLM Response Formatter
 Final Answer
 ```
 
-Or
+<!-- > **Architecture diagram will be added soon.** -->
 
-```markdown
+<!--
+
 ![Architecture](images/architecture.png)
-```
+
+-->
 
 ---
 
@@ -186,15 +189,12 @@ SQL-Chatbot-LangChain
 ├── README.md
 │
 ├── images
-│   ├── architecture.png
-│   ├── signup-page.png
-│   ├── otp-verification.png
-│   ├── chatbot-interface.png
-│   ├── testcase-1.png
-│   ├── testcase-2.png
-│   └── testcase-3.png
+│   └── overview-banner.png
 │
-├── docs
+└── Project Documents
+|   ├── 1 SQL Chatbot - Langchain.docx
+|   ├── Designing 1.docx
+|   └── Process.docx
 │
 └── LICENSE
 ```
@@ -233,49 +233,42 @@ The project was tested using multiple LLM providers:
 to compare SQL generation quality and response accuracy.
 
 ---
-
+<!--
 # 📸 Screenshots
+
+> 🚧 **Screenshots will be added soon.**
+
+
 
 ## SQL Chatbot Architecture
 
-```markdown
 ![Architecture](images/architecture.png)
-```
 
 ---
 
 ## User Registration
 
-```markdown
 ![Signup](images/signup-page.png)
-```
 
 ---
 
 ## OTP Verification
 
-```markdown
 ![OTP](images/otp-verification.png)
-```
 
 ---
 
 ## Chat Interface
 
-```markdown
 ![Chatbot](images/chatbot-interface.png)
-```
 
 ---
 
 ## SQL Generation Example
 
-```markdown
 ![Test Case](images/testcase-1.png)
-```
 
----
-
+-->
 # 🧪 Sample Query
 
 ### User Question
@@ -372,7 +365,7 @@ The original source code belongs to the organization and is **not publicly avail
 
 AI/ML Developer | Dynamics 365 CRM Consultant | Generative AI Enthusiast
 
-📧 LinkedIn: *(Add your LinkedIn URL)*
+📧 LinkedIn: *https://www.linkedin.com/in/priyanka-sonawane-/*
 
 🌐 GitHub: https://github.com/PriyankaSonawane2030
 
